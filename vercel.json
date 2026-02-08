@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://pass.connect3.app/?club=data-science-student-society",
+      "permanent": false
+    }
+  ]
+}
